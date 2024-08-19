@@ -1,0 +1,95 @@
+{
+    "books": [
+        {
+            "Id": 1,
+            "title": "Tudo sobre o amor",
+            "author": "Bell Hooks",
+            "description": "Um livro que explora as diferentes formas de amor e a importância dele em nossas vidas.",
+            "status": true
+        },
+        {
+            "id": 2,
+            "title": "Amiga genial",
+            "author": "Elena Ferrante",
+            "description": "O primeiro livro da série Napolitana, que narra a amizade complexa entre duas mulheres.",
+            "status": true
+        },
+        {
+            "id": 3,
+            "title": "História do Novo Sobrenome",
+            "author": "Elena Ferrante",
+            "description": "O segundo livro da série Napolitana, que continua a história de Elena e Lila.",
+            "status": true
+        },
+        {
+            "id": 4,
+            "title": "História de Quem Foge e de Quem Fica",
+            "author": "Elena Ferrante",
+            "description": "O terceiro livro da série Napolitana, abordando as vidas de Elena e Lila em plena maturidade.",
+            "status": true
+        },
+        {
+            "id": 5,
+            "title": "História da Menina Perdida",
+            "author": "Elena Ferrante",
+            "description": "O quarto e último livro da série Napolitana, que conclui a saga das duas amigas.",
+            "status": true
+        },
+        {
+            "id": 6,
+            "title": "A gente mira no amor e acerta na solidão",
+            "author": "Ana Suy",
+            "description": "Uma coletânea de crônicas que explora a complexidade dos sentimentos humanos.",
+            "status": true
+        },
+        {
+            "id": 7,
+            "title": "Tudo é rio",
+            "author": "Carla Madeira",
+            "description": "Um romance poético que aborda temas como perdão, amor e redenção.",
+            "status": true
+        },
+        {
+            "id": 8,
+            "title": "Torto arado",
+            "author": "Itamar Vieira Junior e Elisa v. Randow",
+            "description": "Um livro sobre as lutas e as tradições de uma comunidade rural no Brasil.",
+            "status": true
+        },
+        {
+            "id": 9,
+            "title": "Um defeito de cor",
+            "author": "Ana Maria Gonçalves",
+            "description": "Uma narrativa histórica sobre a trajetória de uma mulher negra no Brasil do século XIX.",
+            "status": true
+        },
+        {
+            "id": 10,
+            "title": "Talvez você deva conversar com alguém: Uma terapeuta, o terapeuta dela e a vida de todos nós",
+            "author": "Lori Gottlieb",
+            "description": "Um livro que explora as nuances da terapia e da vida por meio das experiências da autora.",
+            "status": true
+        },
+        {
+            "id": 11,
+            "title": "Pequeno manual antirracista",
+            "author": "Djamila Ribeiro",
+            "description": "Um guia prático e reflexivo sobre o combate ao racismo em nossas ações diárias.",
+            "status": true
+        },
+        {
+            "id": 12,
+            "title": "O pacto da branquitude",
+            "author": "Cida Bento",
+            "description": "Um livro que analisa as dinâmicas e os privilégios da branquitude na sociedade.",
+            "status": true
+        },
+        {
+            "id": 13,
+            "title": "Mulheres que correm com os lobos",
+            "author": "Clarissa Pinkola Estés",
+            "description": "Uma obra que explora a natureza instintiva e a força interior das mulheres.",
+            "status": true
+        }
+    ]
+}
