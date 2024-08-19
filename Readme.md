@@ -1,7 +1,7 @@
 
 # 📚 API de Livros com Express.js
 
-Bem-vindes à API de Livros! 🚀 Este é um projeto simples usando Node.js e Express.js para gerenciar uma lista de livros. Vamos explorar como tudo isso funciona enquanto criamos, lemos, atualizamos e deletamos livros. 🎉
+Bem-vindes à API de Livros! 🚀 Este é um projeto simples usando Node.js e Express.js para gerenciar uma lista de livros. Vamos explorar como tudo isso funciona enquanto criamos, lemos, atualizamos(TO-DO)e deletamos livros. 🎉
 
 ## 🎯 O que você vai encontrar aqui
 
@@ -13,7 +13,7 @@ Bem-vindes à API de Livros! 🚀 Este é um projeto simples usando Node.js e Ex
 
 1. **Clone o repositório**: 
    ```bash
-   git clone https://github.com/seu-usuario/api-de-livros.git
+   git clone https://github.com/omahin/API-Book
    ```
 
 2. **Instale as dependências**:
@@ -29,7 +29,7 @@ Bem-vindes à API de Livros! 🚀 Este é um projeto simples usando Node.js e Ex
 
 ## 📚 Como usar a API?
 
-Aqui estão as rotas disponíveis para você começar a gerenciar seus livros:
+Aqui estão as rotas disponíveis para começar a gerenciar seus livros:
 
 ### 📖 **GET /books**
 Retorna todos os livros da lista.
@@ -107,4 +107,4 @@ Gostou do projeto? Ficou com alguma dúvida? Entre em contato! 📧
 
 ---
 
-Divirta-se explorando e personalizando sua própria lista de livros! 📚✨
+Divirta-se, assim como eu, explorando e personalizando sua própria lista de livros! 📚✨
